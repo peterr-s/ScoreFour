@@ -2,7 +2,9 @@
 
 This is a simple AI that I wrote for a longer homework/end of semester assignment (Artificial Intelligence, WS 2017, Andreas Zell).
 
-A working project was provided, so the assignment was just to add another AI type (mine is the one named after me). The base project is almost entirely as provided, though I did make a few small tweaks for the purposes of my testing. I also wrote the Mr. Savant AI to simulate the AI that I knew they would be grading against (not provided). It is essentially just a combination of the Mr. Novice AI's heuristic with my alpha-beta pruned minmax implementation.
+## assignment
+
+A working project was provided, so the assignment was just to add another AI type (mine is the one named after me, as per the assignment — see the other docs). The base project is almost entirely as provided, though I did make a few small tweaks for the purposes of my testing. I also wrote the Mr. Savant AI to simulate the AI that I knew they would be grading against (not provided). It is essentially just a combination of the Mr. Novice AI's heuristic with my alpha-beta pruned minmax implementation.
 
 ## approach
 
